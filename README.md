@@ -288,7 +288,7 @@ me.say_hi()
 <h2 align="center">🌐 &nbsp;Let's Connect!</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/babarhussain786">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
